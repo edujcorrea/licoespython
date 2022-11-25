@@ -1,0 +1,11 @@
+Principais linguagens de programação
+JavaScript
+Python
+Java
+Ruby
+PHP
+C++
+C#
+Go
+C
+Swift
